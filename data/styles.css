@@ -70,12 +70,27 @@
 ._文本段落 {
   text-align:left;
 }
+.line {
+}
+.arrow {
+}
 .text_field {
   color:#000000;
   text-align:left;
+}
+._流程形状 {
+}
+._连接线 {
 }
 ._图片 {
   color:#000000;
 }
 .icon {
+}
+._文本段落1 {
+  text-align:left;
+}
+._形状1 {
+}
+._水平线 {
 }
